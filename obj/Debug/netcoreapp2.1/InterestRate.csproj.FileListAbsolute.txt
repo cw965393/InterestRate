@@ -1,0 +1,11 @@
+U:\CIDM3312\InterestRate\bin\Debug\netcoreapp2.1\InterestRate.deps.json
+U:\CIDM3312\InterestRate\bin\Debug\netcoreapp2.1\InterestRate.runtimeconfig.json
+U:\CIDM3312\InterestRate\bin\Debug\netcoreapp2.1\InterestRate.runtimeconfig.dev.json
+U:\CIDM3312\InterestRate\bin\Debug\netcoreapp2.1\InterestRate.dll
+U:\CIDM3312\InterestRate\bin\Debug\netcoreapp2.1\InterestRate.pdb
+U:\CIDM3312\InterestRate\obj\Debug\netcoreapp2.1\InterestRate.csprojAssemblyReference.cache
+U:\CIDM3312\InterestRate\obj\Debug\netcoreapp2.1\InterestRate.csproj.CoreCompileInputs.cache
+U:\CIDM3312\InterestRate\obj\Debug\netcoreapp2.1\InterestRate.AssemblyInfoInputs.cache
+U:\CIDM3312\InterestRate\obj\Debug\netcoreapp2.1\InterestRate.AssemblyInfo.cs
+U:\CIDM3312\InterestRate\obj\Debug\netcoreapp2.1\InterestRate.dll
+U:\CIDM3312\InterestRate\obj\Debug\netcoreapp2.1\InterestRate.pdb
